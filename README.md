@@ -1,4 +1,4 @@
-- I love React 
+I love React :)
 
 <!---
 zakime0504/zakime0504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
