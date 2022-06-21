@@ -4,6 +4,7 @@ I am Japanese, maybe I am a ninja...
 * JavaScript with React / React Native / next.js / Gatsby.js
 * Swift 
 * HTML&CSS
+* liquid (Shopify)
 
 I use Firebase for backend.
 
