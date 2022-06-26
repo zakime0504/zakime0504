@@ -1,5 +1,5 @@
 ## I love React :)
-I am Japanese, maybe I am a ninja...
+I am Japanese, maybe I am a Ninja...
 
 * JavaScript with React / React Native / next.js / Gatsby.js
 * Swift 
